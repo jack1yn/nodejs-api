@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/u1i/nodejs-api.git"
+    "url": "git+https://github.com/jack1yn/nodejs-api.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/u1i/nodejs-api/issues"
+    "url": "https://github.com/jack1yn/nodejs-api/issues"
   },
-  "homepage": "https://github.com/u1i/nodejs-api#readme"
+  "homepage": "https://github.com/jack1yn/nodejs-api#readme"
 }
