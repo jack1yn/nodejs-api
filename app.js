@@ -1,7 +1,9 @@
 var express = require("express");
 var app = express();
-app.listen(8080, () => {
- console.log("Server running on port 3000");
+const port = process.env.PORT || 8080
+
+app.listen(port, () => {
+ console.log("Server running on port 8080");
 });
 
 app.get("/", (req, res) => {
